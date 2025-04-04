@@ -4,12 +4,24 @@
 
 **L = Low-severity issue**
 
+# 2025
+
+## Code4rena
+
+| Contests                                            | Findings   | Ranking | Markdown Report | PDF Report |
+|-----------------------------------------------------|------------|---------|-----------------|------------|
+| [IQ AI](https://code4rena.com/audits/2025-01-iq-ai) | 1H, 1M, 6L | #1      |                 |            |
+| Overall                                             | 1H, 1M, 6L |         |                 |            |
+
 # 2024
 
 ## Code4rena
 
 | Contests                                                                                              | Findings       | Ranking | Markdown Report                        | PDF Report                              |
 |-------------------------------------------------------------------------------------------------------|----------------|---------|----------------------------------------|-----------------------------------------|
+| [BakerFi Invitational](https://x.com/code4rena/status/1880390999903543469)                            | 5H, 5M         | #5      |                                        |                                         |
+| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)                                            | 1H, 2M         | #30     |                                        |                                         |
+| [Concrete](https://code4rena.com/audits/2024-11-concrete)                                             | 4H, 4M         | #12     |                                        |                                         |
 | [Ethena Labs Invitational](https://x.com/code4rena/status/1862568944403718177)                        | 2M, 5L         | #1      |                                        |                                         |
 | [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange)                               | 1M, 10L        | #2      |                                        |                                         |
 | [Chakra](https://code4rena.com/audits/2024-08-chakra)                                                 | 2H, 1L         | #35     |                                        |                                         |
@@ -24,7 +36,7 @@
 | [Althea Liquid Infrastructure](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | 1H, 4L         | #7      | [Link](./code4rena/2024-02-althea.md)  | [Link](./code4rena/2024-02-althea.pdf)  |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top)                                             | 3H, 2M         | #9      | [Link](./code4rena/2024-01-decent.md)  | [Link](./code4rena/2024-01-decent.pdf)  |
 | [Curves](https://code4rena.com/audits/2024-01-curves#top)                                             | 2H, 3M, 9L     | #17     |                                        |                                         |
-| Overall                                                                                               | 35H, 35M, 112L |         |                                        |                                         |
+| Overall                                                                                               | 45H, 46M, 112L |         |                                        |                                         |
 
 ## Codehawks
 
