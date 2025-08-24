@@ -2,7 +2,7 @@
 
 ## About MrPotatoMagic
 
-I'm an independent security researcher specializing in smart contract security. Currently, I'm primarily working as a Security Researcher at [Certora](https://www.certora.com/), Validator & Judge at [Code4rena](https://code4rena.com/) and Zenith Researcher at [Zenith](https://www.zenith.security/).
+I'm an independent security researcher specializing in smart contract security.
 
 With over two years of expertise, I've disclosed numerous High and Medium severity issues spanning Staking, Lending (CDP), Cross-chain, Governance, Liquid Staking Derivative (LSD) and many more protocol types.
 
@@ -16,11 +16,16 @@ For private security reviews or consulting, please reach out to me on:
 | [Euler Finance](https://app.euler.finance/) | Rewards, Vesting                      | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                  |
 | [Alixa](https://alixa.io/)                  | Yield Farming                         | [Link](./solo/Alixa%20Protocol%20Security%20Report.pdf)                                                 |
 | [Gummi](https://gummi.fi/)                  | Lending, Auction                      | Undisclosed                                                                                             |
+| [Camelot DEX](https://x.com/CamelotDEX)     | Swap Aggregator                       | Undisclosed                                                                                             |
 | [Resolv Labs](https://resolv.xyz/)          | Stablecoin Exchange                   | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review_2024-12-09.pdf)     |
-| [HyperLend]()                               | Lending, Layerzero                    | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Hyperlend-security-review_2025-01-11.pdf)  |
+| [Hyperdrive](https://x.com/hyperdrivedefi)  | HyperEVM, HLP Tokenized Vault         | Undisclosed                                                                                             |
+| [HyperLend](https://x.com/hyperlendx)       | Lending, Layerzero, HyperEVM          | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Hyperlend-security-review_2025-01-11.pdf)  |
+| [Super Champs](https://x.com/SuperChampsHQ) | Emission, Rewards                     | Undisclosed                                                                                             |
 | [Lista DAO](https://lista.org/)             | Rewards, PancakeSwap Integration      | Undisclosed                                                                                             |
-| [Panoptic]()                                | Options Trading, Uniswap              | Undisclosed                                                                                             |
+| [Panoptic](https://x.com/Panoptic_xyz)      | Options Trading, Uniswap              | Undisclosed                                                                                             |
 | [Fractality](https://x.com/fractality_fi)   | Token Migrator                        | Undisclosed                                                                                             |
+| [Blackhole DEX](https://x.com/BlackholeDex) | DEX, Vote-Escrow, clAMM, ve(3,3)      | Undisclosed                                                                                             |
+| [Arbera](https://x.com/ArbitrageBera)       | Bonding, Vesting                      | [Link](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Arbero_Report.pdf)                |
 | [The Farm](https://www.thefarm.fun/)        | AI Agent, Uniswap                     | Undisclosed                                                                                             |
 | Fundraiser                                  | Fund Raiser                           | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Fundraiser-security-review_2024-11-30.pdf) |
 | BuyBurner                                   | Buy & Burn Mechanism, Uniswap V2      | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BuyBurner-security-review_2024-12-14.pdf)  |
